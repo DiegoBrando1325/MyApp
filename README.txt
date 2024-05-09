@@ -1,0 +1,1 @@
+Para la creación de esta aplicación me basé en la de flutter-roll_dice del profesor Rafael Pérez. Cambié el concepto de la aplicación para identificar qué tipo de nieve es la persona que use la aplicación y cambié los colores del diseño.
